@@ -1,4 +1,4 @@
-# Timer App
+# TimeMaster
 
 <div align="center">
   <img src="assets/images/launcher_icon.png" alt="Timer App Icon" width="120" height="120">
