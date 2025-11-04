@@ -1,6 +1,17 @@
 # Timer App
 
+<div align="center">
+  <img src="assets/images/launcher_icon.png" alt="Timer App Icon" width="120" height="120">
+</div>
+
 A comprehensive Flutter application for managing clocks, countdown timers, alarms, and stopwatches. Built with the MVC (Model-View-Controller) architecture pattern.
+
+## Screenshots
+
+<div align="center">
+  <img src="assets/images/img-1.jpeg" alt="Timer App Screenshot 1" width="300">
+  <img src="assets/images/img-2.jpeg" alt="Timer App Screenshot 2" width="300">
+</div>
 
 ## Features
 
